@@ -24,7 +24,17 @@
     <remote-repository>
       <option name="id" value="central" />
       <option name="name" value="Central Repository" />
+      <option name="url" value="https://maven.aliyun.com/repository/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
       <option name="url" value="http://mvnrepo.alibaba-inc.com/mvn/repository" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="alimaven" />
+      <option name="name" value="aliyun maven" />
+      <option name="url" value="https://maven.aliyun.com/repository/public" />
     </remote-repository>
   </component>
 </project>

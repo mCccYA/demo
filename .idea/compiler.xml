@@ -17,12 +17,12 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="demo" target="1.8" />
-      <module name="demo-adapter" target="8" />
-      <module name="demo-app" target="8" />
-      <module name="demo-client" target="8" />
-      <module name="demo-domain" target="8" />
-      <module name="demo-infrastructure" target="8" />
-      <module name="demo-start" target="8" />
+      <module name="demo-adapter" target="1.8" />
+      <module name="demo-app" target="1.8" />
+      <module name="demo-client" target="1.8" />
+      <module name="demo-domain" target="1.8" />
+      <module name="demo-infrastructure" target="1.8" />
+      <module name="demo-start" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

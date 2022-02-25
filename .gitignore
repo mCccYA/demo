@@ -6,3 +6,4 @@ target/
 .settings
 .springBeans
 *.iml
+*.ipr

@@ -1,12 +1,13 @@
 package com.mcc.g3n.demo.domin.exception;
 
 
+import lombok.Getter;
+
 /**
  * 异常错误类
  *
  * @author wanqi.wq
  */
-@Data
 public class Fault {
 
     private static final String APP_ERROR_PREFIX = "ORI_FALCON_BIZ";

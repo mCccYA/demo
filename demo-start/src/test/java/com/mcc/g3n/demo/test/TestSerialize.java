@@ -1,11 +1,13 @@
 package com.mcc.g3n.demo.test;
 
+
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;
 import lombok.Data;
 import lombok.SneakyThrows;
 import lombok.experimental.Accessors;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
+
 
 /**
  * @author wb-yk935086

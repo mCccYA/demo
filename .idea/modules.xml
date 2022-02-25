@@ -7,7 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/demo-app/demo-app.iml" filepath="$PROJECT_DIR$/demo-app/demo-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-client/demo-client.iml" filepath="$PROJECT_DIR$/demo-client/demo-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-domain/demo-domain.iml" filepath="$PROJECT_DIR$/demo-domain/demo-domain.iml" />
-      <module fileurl="file://$PROJECT_DIR$/demo-infrasturctor/demo-infrastructure.iml" filepath="$PROJECT_DIR$/demo-infrasturctor/demo-infrastructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-infrastructure/demo-infrastructure.iml" filepath="$PROJECT_DIR$/demo-infrastructure/demo-infrastructure.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-start/demo-start.iml" filepath="$PROJECT_DIR$/demo-start/demo-start.iml" />
     </modules>
   </component>

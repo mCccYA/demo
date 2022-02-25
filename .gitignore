@@ -1,9 +1,2 @@
 target/
-.idea
-
-.classpath
-.project
-.settings
-.springBeans
 *.iml
-*.ipr

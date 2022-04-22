@@ -114,6 +114,34 @@
                 <scope>test</scope>
             </dependency>
 
+            <dependency>
+                <groupId>io.shardingjdbc</groupId>
+                <artifactId>sharding-jdbc-orchestration-spring-boot-starter</artifactId>
+                <version>2.0.3</version>
+            </dependency>
+
+            <dependency>
+                <groupId>org.openjdk.jol</groupId>
+                <artifactId>jol-core</artifactId>
+                <version>0.9</version>
+            </dependency>
+
+            <dependency>
+                <groupId>org.apache.rocketmq</groupId>
+                <artifactId>rocketmq-spring-boot-starter</artifactId>
+                <version>2.2.1</version>
+                <exclusions>
+                    <exclusion>
+                        <groupId>org.apache.rocketmq</groupId>
+                        <artifactId>rocketmq-client</artifactId>
+                    </exclusion>
+                </exclusions>
+            </dependency>
+            <dependency>
+                <groupId>org.apache.rocketmq</groupId>
+                <artifactId>rocketmq-client</artifactId>
+                <version>4.7.1</version>
+            </dependency>
         </dependencies>
     </dependencyManagement>
 
